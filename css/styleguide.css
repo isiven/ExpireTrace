@@ -1,0 +1,98 @@
+:root { 
+  --black: #000000;
+  --frostee: #e5f4e8;
+  --fruit-salad: #44a059;
+  --jade: #00b228;
+  --racing-green: #0c1c0f;
+  --snow-drift: #f7fcf9;
+  --surf-crest: #ccead3;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-s: 14px;
+  --font-size-xl: 22px;
+  --font-size-xs: 13px;
+  --font-size-xxl: 36px;
+  --font-size-xxxl: 48px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+}
+.inter-bold-racing-green-16px {
+  color: var(--racing-green);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-racing-green-13px {
+  color: var(--racing-green);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-bold-racing-green-22px {
+  color: var(--racing-green);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-fruit-salad-14px {
+  color: var(--fruit-salad);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-black-racing-green-36px {
+  color: var(--racing-green);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.inter-normal-racing-green-16px {
+  color: var(--racing-green);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-fruit-salad-16px {
+  color: var(--fruit-salad);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-medium-racing-green-14px {
+  color: var(--racing-green);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-bold-racing-green-14px {
+  color: var(--racing-green);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-medium-racing-green-16px {
+  color: var(--racing-green);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}

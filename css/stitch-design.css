@@ -1,0 +1,1258 @@
+/* screen - stitch-design */
+
+.stitch-design {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.stitch-design .depth-0-frame-0 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--snow-drift);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  min-height: 800px;
+  position: relative;
+  width: 100%;
+}
+
+.stitch-design .depth {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.stitch-design .depth-2-frame-0 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #e5e8ea;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 12px 40px;
+}
+
+.stitch-design .depth-3-frame-0 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.stitch-design .depth-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.stitch-design .chat-gpt-image-28-jul-2025-13_17_12-1 {
+  height: 61px;
+  position: relative;
+  width: 60px;
+}
+
+.stitch-design .expire-trace {
+  align-self: stretch;
+  color: var(--racing-green);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.stitch-design .depth-3-frame-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 32px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.stitch-design .depth-4-frame-0 {
+  align-items: center;
+  display: inline-flex;
+  gap: 36px;
+  height: 40px;
+}
+
+.stitch-design .features {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.stitch-design .pricing {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.stitch-design .support {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.stitch-design .depth-4-frame-1-1 {
+  align-items: center;
+  background-color: var(--jade);
+  border-radius: 20px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  height: 40px;
+  justify-content: center;
+  max-width: 480px;
+  min-width: 84px;
+  overflow: hidden;
+  padding: 0px 16px;
+  position: relative;
+}
+
+.stitch-design .depth-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.stitch-design .start-free-1 {
+  color: var(--snow-drift);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+}
+
+.stitch-design .depth-2-frame-1 {
+  align-items: flex-start;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: center;
+  padding: 20px 160px;
+}
+
+.stitch-design .depth-3-frame-0-1 {
+  margin-bottom: -24.00px;
+}
+
+.stitch-design .depth-5-frame-0 {
+  align-items: flex-start;
+  flex: 1;
+  flex-grow: 1;
+  gap: 32px;
+  padding: 40px 16px;
+}
+
+.stitch-design .depth-6-frame-2-1 {
+  background-image: url(../img/depth-6--frame-2@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 12px;
+  flex: 1;
+  flex-grow: 1;
+  height: 340px;
+  min-width: 400px;
+  position: relative;
+}
+
+.stitch-design .depth-6-frame-1-1 {
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  min-width: 400px;
+}
+
+.stitch-design .depth-7-frame-0 {
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+}
+
+.stitch-design .depth-8-frame {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 450px;
+}
+
+.stitch-design .title {
+  align-self: stretch;
+  color: var(--racing-green);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxl);
+  font-weight: 900;
+  letter-spacing: -2.00px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .organize-and-automat {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .depth-7-frame-1-2 {
+  background-color: var(--jade);
+  border-radius: 24px;
+  height: 48px;
+  padding: 0px 20px;
+  width: 450px;
+}
+
+.stitch-design .start-free {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  align-self: stretch;
+  color: var(--snow-drift);
+  display: -webkit-box;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.stitch-design .depth-4-frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 20px 16px 12px;
+  position: relative;
+  width: 100%;
+}
+
+.stitch-design .what-is-expire-trace {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .depth-4-frame-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  padding: 4px 16px 12px;
+  width: 100%;
+}
+
+.stitch-design .expire-trace-is-a-saa {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .who-is-it-for {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .depth-4-frame-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px;
+  width: 100%;
+}
+
+.stitch-design .depth-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.stitch-design .depth-6-frame {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--snow-drift);
+  border: 1px solid;
+  border-color: var(--surf-crest);
+  border-radius: 8px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 12px;
+  padding: 16px;
+  position: relative;
+}
+
+.stitch-design .depth-4 {
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 24px;
+}
+
+.stitch-design .vector-0-3 {
+  height: 16px;
+  left: 2px;
+  position: absolute;
+  top: 4px;
+  width: 21px;
+}
+
+.stitch-design .depth-7-frame-1 {
+  display: flex;
+  width: 106px;
+}
+
+.stitch-design .tech-companies {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .vector-0-4 {
+  height: 18px;
+  left: 2px;
+  position: absolute;
+  top: 3px;
+  width: 21px;
+}
+
+.stitch-design .legal-teams {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.stitch-design .vector-0-5 {
+  height: 18px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 20px;
+}
+
+.stitch-design .finance-departments {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .vector-0 {
+  height: 19px;
+  left: 3px;
+  position: absolute;
+  top: 2px;
+  width: 18px;
+}
+
+.stitch-design .real-estate-managers {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .vector-0-6 {
+  height: 17px;
+  left: 1px;
+  position: absolute;
+  top: 5px;
+  width: 23px;
+}
+
+.stitch-design .hr-departments {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .depth-6-frame-0 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--snow-drift);
+  border: 1px solid;
+  border-color: var(--surf-crest);
+  border-radius: 8px;
+  gap: 12px;
+  padding: 16px;
+  width: 176px;
+}
+
+.stitch-design .vector-0-1 {
+  height: 20px;
+  left: 4px;
+  position: absolute;
+  top: 2px;
+  width: 16px;
+}
+
+.stitch-design .document-management {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .functionalities {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .depth-4-frame-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  padding: 40px 16px;
+  width: 100%;
+}
+
+.stitch-design .depth-5-frame-0-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  width: 100%;
+}
+
+.stitch-design .depth-6-frame-1 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 720px;
+  width: 720px;
+}
+
+.stitch-design .surname {
+  align-self: stretch;
+  letter-spacing: -1.00px;
+  line-height: 45px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .expire-trace-offers-a {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .depth-5-frame-1 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.stitch-design .depth-7-frame {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--snow-drift);
+  border: 1px solid;
+  border-color: var(--surf-crest);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px;
+  position: relative;
+  width: 301px;
+}
+
+.stitch-design .depth-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 100%;
+}
+
+.stitch-design .automated-reminders {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .receive-timely-email {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .excel-import {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .easily-import-your-e {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .vector-0-7 {
+  height: 20px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 20px;
+}
+
+.stitch-design .customizable-fields {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .add-custom-fields-to {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .pricing-plans {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .depth-4-frame-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 12px 16px;
+  width: 100%;
+}
+
+.stitch-design .depth-5-frame-0-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  width: 100%;
+}
+
+.stitch-design .depth-6-frame-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--snow-drift);
+  border: 1px solid;
+  border-color: var(--surf-crest);
+  border-radius: 12px;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 16px;
+  padding: 24px;
+}
+
+.stitch-design .basic {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .depth-8-frame-1 {
+  align-items: baseline;
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 4px;
+  width: 100%;
+}
+
+.stitch-design .free {
+  align-self: stretch;
+  letter-spacing: -1.00px;
+  line-height: 45px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.stitch-design .month {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.stitch-design .depth-7-frame-1-1 {
+  background-color: var(--frostee);
+  border-radius: 20px;
+  height: 40px;
+  min-width: 84px;
+  padding: 0px 16px;
+  width: 100%;
+}
+
+.stitch-design .depth-7-frame-2 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  width: 100%;
+}
+
+.stitch-design .depth-8-frame-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 12px;
+  width: 100%;
+}
+
+.stitch-design .depth-10-frame-0 {
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 20px;
+}
+
+.stitch-design .vector-0-2 {
+  height: 11px;
+  left: 2px;
+  position: absolute;
+  top: 5px;
+  width: 16px;
+}
+
+.stitch-design .up-to-100-items {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.stitch-design .email-reminders {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.stitch-design .standard-support {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.stitch-design .pro {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .price {
+  align-self: stretch;
+  letter-spacing: -1.00px;
+  line-height: 45px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.stitch-design .month-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.stitch-design .choose-plan {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  align-self: stretch;
+  display: -webkit-box;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.stitch-design .unlimited-items {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.stitch-design .email-and-sms-reminders {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.stitch-design .priority-support {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.stitch-design .custom-fields {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.stitch-design .place {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .contact-us {
+  align-self: stretch;
+  letter-spacing: -1.00px;
+  line-height: 45px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.stitch-design .contact-us-1 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  display: -webkit-box;
+  line-height: 21px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.stitch-design .unlimited-items-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.stitch-design .email-and-sms-reminders-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.stitch-design .dedicated-support {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.stitch-design .custom-fields-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.stitch-design .api-access {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.stitch-design .testimonials-optional {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .depth-4-frame-10 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.stitch-design .depth-5-frame-0-3 {
+  align-items: flex-start;
+  flex: 1;
+  flex-grow: 1;
+  gap: 12px;
+  padding: 16px;
+}
+
+.stitch-design .depth-6-frame-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 8px;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 16px;
+  min-width: 240px;
+}
+
+.stitch-design .depth-7-frame-0-1 {
+  align-self: stretch;
+  background-image: url(../img/depth-7--frame-0@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 12px;
+  height: 301px;
+  position: relative;
+  width: 100%;
+}
+
+.stitch-design .clara-tech-company {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .depth-7-frame-0-2 {
+  align-self: stretch;
+  background-image: url(../img/depth-7--frame-0-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 12px;
+  height: 301px;
+  position: relative;
+  width: 100%;
+}
+
+.stitch-design .liam-legal-team {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .as-a-legal-team-we {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .depth-7-frame-0-3 {
+  align-self: stretch;
+  background-image: url(../img/depth-7--frame-0-2@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 12px;
+  height: 301px;
+  position: relative;
+  width: 100%;
+}
+
+.stitch-design .ava-finance-department {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .security {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .we-prioritize-the-se {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .depth-4-frame-13 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+
+.stitch-design .depth-5-frame-0-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 32px;
+  justify-content: flex-end;
+  padding: 80px 40px;
+  width: 100%;
+}
+
+.stitch-design .depth-6-frame-0-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.stitch-design .depth-7-frame-0-4 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  max-width: 720px;
+  position: relative;
+  width: 720px;
+}
+
+.stitch-design .ready-to-get-started {
+  align-self: stretch;
+  letter-spacing: -1.00px;
+  line-height: 45px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.stitch-design .depth-6-frame-1-2 {
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  width: 100%;
+}
+
+.stitch-design .depth-7-frame-0-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.stitch-design .depth-8-frame-0 {
+  align-items: center;
+  background-color: var(--jade);
+  border-radius: 24px;
+  flex: 1;
+  flex-grow: 1;
+  height: 48px;
+  justify-content: center;
+  max-width: 480px;
+  min-width: 84px;
+  overflow: hidden;
+  padding: 0px 20px;
+}
+
+.stitch-design .depth-2-frame-2 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  justify-content: center;
+}
+
+.stitch-design .depth-4-frame-0-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 24px;
+  padding: 40px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.stitch-design .depth-5-frame-0-5 {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 24px 24px;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.stitch-design .depth-6-frame-4 {
+  align-items: center;
+  flex-direction: column;
+  width: 160px;
+}
+
+.stitch-design .terms-of-service {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.stitch-design .privacy-policy {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.stitch-design .contact-us-2 {
+  line-height: 24px;
+}
+
+.stitch-design .depth-5-frame-1-1 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.stitch-design .depth-5-frame-2 {
+  align-items: center;
+  flex: 0 0 auto;
+  flex-direction: column;
+}
+
+.stitch-design .x2024-expire-trace {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.stitch-design .contact-us-3 {
+  align-self: stretch;
+  letter-spacing: 0;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.stitch-design .depth-2-frame {
+  align-self: stretch;
+  display: flex;
+  position: relative;
+  width: 100%;
+}
+
+.stitch-design .depth-3-frame-0-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  max-width: 960px;
+  position: relative;
+}
+
+.stitch-design .depth-4-frame-2 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.stitch-design .depth-5-frame {
+  align-self: stretch;
+  display: flex;
+  position: relative;
+  width: 100%;
+}
+
+.stitch-design .depth-5-frame-0-6 {
+  display: flex;
+  position: relative;
+}
+
+.stitch-design .depth-6-frame-5 {
+  display: flex;
+  position: relative;
+}
+
+.stitch-design .depth-6-frame-1-3 {
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+}
+
+.stitch-design .depth-7-frame-3 {
+  align-items: flex-start;
+  flex-direction: column;
+  position: relative;
+}
+
+.stitch-design .depth-7-frame-1-3 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  max-width: 480px;
+  overflow: hidden;
+  position: relative;
+}
+
+.stitch-design .depth-8-frame-3 {
+  display: flex;
+  position: relative;
+}
+
+.stitch-design .expire-trace-has {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stitch-design .start-free-3 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  align-self: stretch;
+  display: -webkit-box;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
